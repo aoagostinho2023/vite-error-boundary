@@ -20,6 +20,7 @@ A tela de erro contem um botão "Tentar novamente", que reseta o app para que o 
 No terminal, dentro da pasta do projeto:
 
 npm install
+
 npm run dev
 
 Depois abrir o navegador em:
