@@ -28,10 +28,15 @@ http://localhost:5173
 
 ## Estrutura do projeto
 
+
 src/
+
 App.jsx
+
 ErrorBoundary.jsx
+
 Divider.jsx
+
 main.jsx
 
 ## Objetivo
